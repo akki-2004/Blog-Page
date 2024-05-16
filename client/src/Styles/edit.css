@@ -1,0 +1,46 @@
+.iwruh{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.iefn{
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    
+}
+.guh{
+background-color: cornsilk;
+color: #333;
+font-weight: bolder;
+border-radius:30%;
+padding:5px;
+margin-top: 2%;
+}
+.iugb{
+    padding: 10px;
+    width: 50%;
+}
+  
+.guh{
+    float: right;
+    background-color:cornsilk;
+    color: black;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .guh:hover {
+    background-color: lightgoldenrodyellow;
+ 
+    color: black;
+  }
+  .rubi{
+    font-weight: bolder;
+    float: left;
+  }

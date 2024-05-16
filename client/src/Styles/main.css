@@ -1,0 +1,57 @@
+.blog-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .blog-card {
+    width: 1000px;
+    padding: 16px;
+    
+    margin: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .blog-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 8px;
+  }
+  
+  .blog-content {
+    text-align: center;
+    color: #555;
+    font-size: 20px;
+    margin-bottom: 12px;
+  }
+  
+  .blog-author {
+    float: left;
+    font-style: italic;
+    color: #888;
+  }
+  
+  .read-more-btn {
+    float: right;
+    background-color:cornsilk;
+    color: black;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .read-more-btn:hover {
+    background-color: lightgoldenrodyellow;
+ 
+    color: black;
+  }
+  .ruio{
+    text-align: center;
+    font-family: serif;
+    font-weight: bolder;
+    font-size: 50px;
+  }
